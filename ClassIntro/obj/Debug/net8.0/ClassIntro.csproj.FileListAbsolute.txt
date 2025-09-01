@@ -1,0 +1,15 @@
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\bin\Debug\net8.0\ClassIntro.exe
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\bin\Debug\net8.0\ClassIntro.deps.json
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\bin\Debug\net8.0\ClassIntro.runtimeconfig.json
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\bin\Debug\net8.0\ClassIntro.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\bin\Debug\net8.0\ClassIntro.pdb
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\obj\Debug\net8.0\ClassIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\obj\Debug\net8.0\ClassIntro.AssemblyInfoInputs.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\obj\Debug\net8.0\ClassIntro.AssemblyInfo.cs
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\obj\Debug\net8.0\ClassIntro.csproj.CoreCompileInputs.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\obj\Debug\net8.0\ClassIntro.sourcelink.json
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\obj\Debug\net8.0\ClassIntro.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\obj\Debug\net8.0\refint\ClassIntro.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\obj\Debug\net8.0\ClassIntro.pdb
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\obj\Debug\net8.0\ClassIntro.genruntimeconfig.cache
+D:\Programming\Teaching\CodeLank\Practices\C#-01\ClassIntro\ClassIntro\obj\Debug\net8.0\ref\ClassIntro.dll
