@@ -1,16 +1,28 @@
-﻿//intance classi yaratmaq
-using ClassIntro;
+﻿using ClassIntro;
 
-Phone phone = new Phone();
+var samsung = new Phone()
+{
+    Brand = "Samsung",
+    Color = "Black",
+    Name = "S22",
+    Price = 2000,
+    RAM = 16,
+    Storage = 256,
+    Weight = 300,
+    CameraCount = 4
+};
 
-phone.Name = "iPhone 16";
-phone.RAM = 16;
-phone.CameraCount = 4;
-phone.Weight = 300;
-phone.Color = "Green";
-phone.Brand = "Apple";
-phone.Storage = 256;
-phone.Price = 2000;
+var lenovo = new Laptop()
+{
+    Brand = "Lenovo",
+    Weight = 1400,
+    Storage = 512,
+    RAM = 32,
+    Price = 2000,
+    Color = "White",
+    Name = "ThinkPad",
+    FanCount = 3
+};
 
-Command command = new Command();
-Console.WriteLine(command.ChangePrice(phone.Price));
+var exception = new NotFoundException();
+Console.WriteLine(exception.Message);

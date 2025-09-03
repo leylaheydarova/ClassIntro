@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\classintro\\classintro\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|solutionrelative:classintro\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\classintro\\classintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|solutionrelative:classintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\classintro\\classintro\\smartwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|solutionrelative:classintro\\smartwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\classintro\\classintro\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|solutionrelative:classintro\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\classintro\\classintro\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|solutionrelative:classintro\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\classintro\\classintro\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|solutionrelative:classintro\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\classintro\\classintro\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|solutionrelative:classintro\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|d:\\programming\\teaching\\codelank\\practices\\c#-01\\classintro\\classintro\\models\\basemodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000C5C25-2D90-48EC-A696-1832C3FD5ACC}|ClassIntro\\ClassIntro.csproj|solutionrelative:classintro\\models\\basemodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Smartwatch.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Smartwatch.cs",
+              "RelativeDocumentMoniker": "ClassIntro\\Smartwatch.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Smartwatch.cs",
+              "RelativeToolTip": "ClassIntro\\Smartwatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:24:36.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Electronics.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Electronics.cs",
+              "RelativeDocumentMoniker": "ClassIntro\\Electronics.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Electronics.cs",
+              "RelativeToolTip": "ClassIntro\\Electronics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:13:05.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "ClassIntro\\NotFoundException.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\NotFoundException.cs",
+              "RelativeToolTip": "ClassIntro\\NotFoundException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T15:43:24.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Command.cs",
+              "RelativeDocumentMoniker": "ClassIntro\\Command.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Command.cs",
+              "RelativeToolTip": "ClassIntro\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T15:35:54.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Phone.cs",
+              "RelativeDocumentMoniker": "ClassIntro\\Phone.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Phone.cs",
+              "RelativeToolTip": "ClassIntro\\Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T15:26:47.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Models\\BaseModels\\BaseModel.cs",
+              "RelativeDocumentMoniker": "ClassIntro\\Models\\BaseModels\\BaseModel.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Models\\BaseModels\\BaseModel.cs",
+              "RelativeToolTip": "ClassIntro\\Models\\BaseModels\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T15:24:29.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Program.cs",
+              "RelativeDocumentMoniker": "ClassIntro\\Program.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Program.cs",
+              "RelativeToolTip": "ClassIntro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:01:38.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Laptop.cs",
+              "RelativeDocumentMoniker": "ClassIntro\\Laptop.cs",
+              "ToolTip": "D:\\Programming\\Teaching\\CodeLank\\Practices\\C#-01\\ClassIntro\\ClassIntro\\Laptop.cs",
+              "RelativeToolTip": "ClassIntro\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:01:26.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
